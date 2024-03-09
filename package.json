@@ -1,14 +1,18 @@
 {
-  "name": "y",
-  "version": "1.0.0",
-  "description": "",
+  "name": "padplus_robot",
+  "version": "1.0.1",
+  "description": "The Padplus robot is a chatbot that can automatically reply to messages based on preset rules.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "qc90",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qc16/padplus-robot.git"
+  },
   "dependencies": {
     "ali-oss": "^6.9.0",
     "log4js": "^6.3.0",
